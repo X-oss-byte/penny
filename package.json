@@ -48,7 +48,7 @@
     "abortcontroller-polyfill": "^1.7.5",
     "card-validator": "^8.1.1",
     "date-fns": "^2.30.0",
-    "graphql": "^16.6.0",
+    "graphql": "^16.8.1",
     "imask": "^6.6.3",
     "jotai": "^2.2.0",
     "next": "^13.4.5",
